@@ -1,4 +1,0 @@
-mols2grid==0.0.6
-pandas==0.25.3
-streamlit==0.84.0
-rdkit-pypi==2021.3.3
